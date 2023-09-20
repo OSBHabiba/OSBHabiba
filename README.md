@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @OSBHabiba
-- 👀 I’m interested in automatisation 
+- 👀 Interested to learn about automation on mainframe environement 
 - 🌱 I’m currently learning about Mainframe and Cloud (Azure and AWS)
-- 💞️ I’m looking to collaborate on the approach between Mainframe and the Cloud
 - 📫 How to reach me  https://www.linkedin.com/in/h-osb-it-network2015/
 
 <!---
